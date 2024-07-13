@@ -1,0 +1,234 @@
+[28-Sep-2022 04:38:06 UTC] PHP Warning:  Undefined array key "server_license" in /var/softaculous/sitepad/editor/site-inc/sitepad_functions2.php on line 766
+[28-Sep-2022 04:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/softaculous/sitepad/editor/site-inc/sitepad_functions2.php on line 766
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined array key "sitepad_setup_start" in /var/softaculous/sitepad/editor/site-data/plugins/sitepad/sitepad.php on line 298
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:07 UTC] PHP Warning:  Undefined variable $parent_post_id in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/functions.php on line 2665
+[28-Sep-2022 04:38:22 UTC] PHP Warning:  require_once(/var/softaculous/sitepad/editor//wp-admin/includes/plugin.php): Failed to open stream: No such file or directory in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[28-Sep-2022 04:38:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/var/softaculous/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php:363
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(326): PagelayerUpdateChecker_3_2->getPluginHeader()
+#1 /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(375): PagelayerUpdateChecker_3_2->getInstalledVersion()
+#2 /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(1357): PagelayerUpdateChecker_3_2->checkForUpdates()
+#3 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(286): Pagelayer_PucScheduler_3_2->maybeCheckForUpdates()
+#4 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/softaculous/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#6 /var/softaculous/sitepad/editor/cron.php(133): do_action_ref_array('check_plugin_up...', Array)
+#7 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#8 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#9 {main}
+  thrown in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[28-Sep-2022 04:38:22 UTC] PHP Warning:  Undefined array key "goto_cp" in /var/softaculous/sitepad/editor/site-admin/index.php on line 97
+[28-Sep-2022 04:38:23 UTC] PHP Warning:  Undefined variable $current_theme_actions in /var/softaculous/sitepad/editor/site-admin/index.php on line 390
+[28-Sep-2022 04:38:23 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /var/softaculous/sitepad/editor/site-admin/index.php:390
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-admin/index.php(390): implode(' ', NULL)
+#1 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#2 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#3 {main}
+  thrown in /var/softaculous/sitepad/editor/site-admin/index.php on line 390
+[28-Sep-2022 04:38:35 UTC] PHP Warning:  Undefined array key "goto_cp" in /var/softaculous/sitepad/editor/site-admin/index.php on line 97
+[28-Sep-2022 04:38:35 UTC] PHP Warning:  Undefined variable $current_theme_actions in /var/softaculous/sitepad/editor/site-admin/index.php on line 390
+[28-Sep-2022 04:38:35 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /var/softaculous/sitepad/editor/site-admin/index.php:390
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-admin/index.php(390): implode(' ', NULL)
+#1 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#2 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#3 {main}
+  thrown in /var/softaculous/sitepad/editor/site-admin/index.php on line 390
+[28-Sep-2022 04:38:40 UTC] PHP Warning:  Attempt to read property "post_status" on null in /var/softaculous/sitepad/editor/site-admin/includes/template.php on line 767
+[28-Sep-2022 04:38:40 UTC] PHP Warning:  Attempt to read property "post_date" on null in /var/softaculous/sitepad/editor/site-admin/includes/template.php on line 779
+[28-Sep-2022 04:39:56 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /var/softaculous/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /var/softaculous/sitepad/editor/site-inc/functions.php(6739): list_files('/home/yascenter...', 100, Array)
+#2 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/softaculous/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /var/softaculous/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#7 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#8 {main}
+  thrown in /var/softaculous/sitepad/editor/site-admin/includes/file.php on line 168
+[30-Sep-2022 04:56:49 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /var/softaculous/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /var/softaculous/sitepad/editor/site-inc/functions.php(6739): list_files('/home/yascenter...', 100, Array)
+#2 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/softaculous/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /var/softaculous/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#7 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#8 {main}
+  thrown in /var/softaculous/sitepad/editor/site-admin/includes/file.php on line 168
+[30-Sep-2022 08:21:47 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /var/softaculous/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /var/softaculous/sitepad/editor/site-inc/functions.php(6739): list_files('/home/yascenter...', 100, Array)
+#2 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/softaculous/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /var/softaculous/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#7 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#8 {main}
+  thrown in /var/softaculous/sitepad/editor/site-admin/includes/file.php on line 168
+[03-Oct-2022 06:48:13 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /var/softaculous/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /var/softaculous/sitepad/editor/site-inc/functions.php(6739): list_files('/home/yascenter...', 100, Array)
+#2 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/softaculous/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /var/softaculous/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#7 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#8 {main}
+  thrown in /var/softaculous/sitepad/editor/site-admin/includes/file.php on line 168
+[03-Oct-2022 06:49:14 UTC] PHP Warning:  require_once(/var/softaculous/sitepad/editor//wp-admin/includes/plugin.php): Failed to open stream: No such file or directory in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[03-Oct-2022 06:49:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/var/softaculous/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php:363
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(326): PagelayerUpdateChecker_3_2->getPluginHeader()
+#1 /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(375): PagelayerUpdateChecker_3_2->getInstalledVersion()
+#2 /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(1357): PagelayerUpdateChecker_3_2->checkForUpdates()
+#3 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(286): Pagelayer_PucScheduler_3_2->maybeCheckForUpdates()
+#4 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /var/softaculous/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#6 /var/softaculous/sitepad/editor/cron.php(133): do_action_ref_array('check_plugin_up...', Array)
+#7 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#8 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#9 {main}
+  thrown in /var/softaculous/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[03-Oct-2022 07:39:38 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /var/softaculous/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /var/softaculous/sitepad/editor/site-inc/functions.php(6739): list_files('/home/yascenter...', 100, Array)
+#2 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/softaculous/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /var/softaculous/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#7 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#8 {main}
+  thrown in /var/softaculous/sitepad/editor/site-admin/includes/file.php on line 168
+[03-Oct-2022 08:38:26 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /var/softaculous/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /var/softaculous/sitepad/editor/site-inc/functions.php(6739): list_files('/home/yascenter...', 100, Array)
+#2 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/softaculous/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /var/softaculous/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#7 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#8 {main}
+  thrown in /var/softaculous/sitepad/editor/site-admin/includes/file.php on line 168
+[03-Oct-2022 09:39:56 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /var/softaculous/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /var/softaculous/sitepad/editor/site-inc/functions.php(6739): list_files('/home/yascenter...', 100, Array)
+#2 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/softaculous/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /var/softaculous/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#7 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#8 {main}
+  thrown in /var/softaculous/sitepad/editor/site-admin/includes/file.php on line 168
+[03-Oct-2022 10:39:38 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /var/softaculous/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /var/softaculous/sitepad/editor/site-inc/functions.php(6739): list_files('/home/yascenter...', 100, Array)
+#2 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/softaculous/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /var/softaculous/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#7 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#8 {main}
+  thrown in /var/softaculous/sitepad/editor/site-admin/includes/file.php on line 168
+[03-Oct-2022 11:39:56 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /var/softaculous/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /var/softaculous/sitepad/editor/site-inc/functions.php(6739): list_files('/home/yascenter...', 100, Array)
+#2 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/softaculous/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /var/softaculous/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#7 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#8 {main}
+  thrown in /var/softaculous/sitepad/editor/site-admin/includes/file.php on line 168
+[04-Oct-2022 04:16:39 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /var/softaculous/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /var/softaculous/sitepad/editor/site-inc/functions.php(6739): list_files('/home/yascenter...', 100, Array)
+#2 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/softaculous/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /var/softaculous/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#7 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#8 {main}
+  thrown in /var/softaculous/sitepad/editor/site-admin/includes/file.php on line 168
+[04-Oct-2022 04:38:50 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /var/softaculous/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /var/softaculous/sitepad/editor/site-inc/functions.php(6739): list_files('/home/yascenter...', 100, Array)
+#2 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/softaculous/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /var/softaculous/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#7 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#8 {main}
+  thrown in /var/softaculous/sitepad/editor/site-admin/includes/file.php on line 168
+[04-Oct-2022 05:39:20 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /var/softaculous/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /var/softaculous/sitepad/editor/site-inc/functions.php(6739): list_files('/home/yascenter...', 100, Array)
+#2 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/softaculous/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /var/softaculous/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#7 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#8 {main}
+  thrown in /var/softaculous/sitepad/editor/site-admin/includes/file.php on line 168
+[04-Oct-2022 11:15:05 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /var/softaculous/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /var/softaculous/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /var/softaculous/sitepad/editor/site-inc/functions.php(6739): list_files('/home/yascenter...', 100, Array)
+#2 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /var/softaculous/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /var/softaculous/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /var/softaculous/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /var/softaculous/sitepad/editor/site-inc/bootstrap.php(86): include_once('/var/softaculou...')
+#7 /home/yascenter/public_html/sp/index.php(28): include_once('/var/softaculou...')
+#8 {main}
+  thrown in /var/softaculous/sitepad/editor/site-admin/includes/file.php on line 168
+[05-Nov-2022 05:54:19 UTC] PHP Warning:  include_once(/var/softaculous/sitepad/editor/site-inc/bootstrap.php): Failed to open stream: No such file or directory in /home/vo2wgqkps09m/public_html/sp/index.php on line 28
+[05-Nov-2022 05:54:19 UTC] PHP Warning:  include_once(): Failed opening '/var/softaculous/sitepad/editor/site-inc/bootstrap.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vo2wgqkps09m/public_html/sp/index.php on line 28
+[17-Dec-2022 05:54:26 UTC] PHP Warning:  include_once(/var/softaculous/sitepad/editor/site-inc/bootstrap.php): Failed to open stream: No such file or directory in /home/vo2wgqkps09m/public_html/sp/index.php on line 28
+[17-Dec-2022 05:54:26 UTC] PHP Warning:  include_once(): Failed opening '/var/softaculous/sitepad/editor/site-inc/bootstrap.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vo2wgqkps09m/public_html/sp/index.php on line 28
